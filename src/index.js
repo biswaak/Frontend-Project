@@ -11,13 +11,14 @@ import { CookiesProvider } from 'react-cookie';
 import EShopIndex from './Project model/EShop-Prototype/Eshopindex';
 import FlashShopIndex from './FlashShop/Flashshopindex';
 import MainComponent from './BankApp/MainComponent';
+import ItrMainApp from './ITR/ITRApp';
 
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <MainComponent />
+    <ItrMainApp />
   </React.StrictMode>
 );
 
