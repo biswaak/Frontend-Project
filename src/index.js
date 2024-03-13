@@ -7,18 +7,18 @@ import '../node_modules/bootstrap/dist/css/bootstrap.css';
 import '../node_modules/bootstrap-icons/font/bootstrap-icons.css';
 import { CookiesProvider } from 'react-cookie';
 
+import ITRindexComponent from './ITR/ITRindex';
+import MonkIndexComponent from './Monk service/Components/MonkIndex';
+import MonkMainCommponent from './Monk service/Components/MonkMain';
 
-import EShopIndex from './Project model/EShop-Prototype/Eshopindex';
-import FlashShopIndex from './FlashShop/Flashshopindex';
-import MainComponent from './BankApp/MainComponent';
-import ItrMainApp from './ITR/ITRApp';
+
 
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ItrMainApp />
+    < ITRindexComponent />
   </React.StrictMode>
 );
 

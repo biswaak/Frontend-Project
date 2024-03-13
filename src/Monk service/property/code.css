@@ -1,0 +1,3051 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1440px;
+height: 7963px;
+
+background: #EA5151;
+
+
+/* header */
+
+position: absolute;
+width: 1440px;
+height: 140px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 140px;
+left: 0px;
+top: 0px;
+
+background: #FFAD51;
+
+
+/* IT */
+
+position: absolute;
+width: 104px;
+height: 77px;
+left: 63px;
+top: 29px;
+
+font-family: 'Knewave';
+font-style: normal;
+font-weight: 400;
+font-size: 104px;
+line-height: 162px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Monk Sol. Pvt. Ltd */
+
+position: absolute;
+width: 175px;
+height: 45px;
+left: 167px;
+top: 70px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 88%;
+/* or 21px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 125px;
+
+position: absolute;
+width: 839px;
+height: 32px;
+left: 497px;
+top: 60px;
+
+
+
+/* Home */
+
+width: 116px;
+height: 32px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 88%;
+/* or 21px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Mission */
+
+width: 116px;
+height: 32px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 88%;
+/* or 21px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vision */
+
+width: 116px;
+height: 32px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 88%;
+/* or 21px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Services */
+
+width: 116px;
+height: 32px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 88%;
+/* or 21px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* gol */
+
+position: absolute;
+width: 1624px;
+height: 577px;
+left: -86px;
+top: 167px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 498px;
+height: 498px;
+left: 93px;
+top: 206px;
+
+background: #8787FF;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 269px;
+height: 269px;
+left: 778px;
+top: 475px;
+
+background: #DFDFDF;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 406px;
+height: 406px;
+left: 1132px;
+top: 167px;
+
+background: #FFAD51;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 135px;
+height: 135px;
+left: -86px;
+top: 189px;
+
+background: #65D085;
+
+
+/* “ IT Monks Solutions Pvt Ltd is a dynamic player in the Information Technology Development and Services industry, committed to driving innovation and delivering cutting-edge solutions. “ */
+
+position: absolute;
+width: 952px;
+height: 167px;
+left: calc(50% - 952px/2);
+top: 788px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1310px;
+height: 393px;
+left: calc(50% - 1310px/2);
+top: 978px;
+
+background: url(.jpg), #D9D9D9;
+
+
+/* 2nd */
+
+position: absolute;
+width: 1678px;
+height: 1045px;
+left: -239px;
+top: 1481px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1438px;
+height: 1045px;
+left: calc(50% - 1438px/2);
+top: 1481px;
+
+background: #5D5DC6;
+
+
+/* ENGAGE WITH THE EMERGING */
+
+position: absolute;
+width: 1435.76px;
+height: 244px;
+left: calc(50% - 1435.76px/2 - 0.12px);
+top: 1506px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 45.1852px;
+line-height: 55px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* “ Our vision is to "ENGAGE WITH THE EMERGING," staying at the forefront of technological advancements and leveraging emerging trends to provide unparalleled services. ” */
+
+position: absolute;
+width: 952px;
+height: 167px;
+left: calc(50% - 952px/2);
+top: 1942px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Vision */
+
+position: absolute;
+width: 310px;
+height: 88px;
+left: calc(50% - 310px/2);
+top: 1794px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* patren */
+
+position: absolute;
+width: 510px;
+height: 510px;
+left: -239px;
+top: 1672px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 30.72px;
+height: 510px;
+left: -7.04px;
+top: 1672px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 30.72px;
+height: 510px;
+left: 167.75px;
+top: 1731.91px;
+
+background: #FFFFFF;
+transform: rotate(43.76deg);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 30.72px;
+height: 510px;
+left: -239px;
+top: 1942.36px;
+
+background: #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 30.72px;
+height: 510px;
+left: -186.77px;
+top: 1766.74px;
+
+background: #FFFFFF;
+transform: rotate(-46.24deg);
+
+
+/* patren */
+
+position: absolute;
+width: 111.87px;
+height: 111.87px;
+left: 819px;
+top: 1782px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 6.74px;
+height: 111.87px;
+left: 869.88px;
+top: 1782px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 6.74px;
+height: 111.87px;
+left: 908.22px;
+top: 1795.14px;
+
+background: #FFFFFF;
+transform: rotate(43.76deg);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 6.74px;
+height: 111.87px;
+left: 819px;
+top: 1841.3px;
+
+background: #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 6.74px;
+height: 111.87px;
+left: 830.46px;
+top: 1802.78px;
+
+background: #FFFFFF;
+transform: rotate(-46.24deg);
+
+
+/* 3rd */
+
+position: absolute;
+width: 1733px;
+height: 1041px;
+left: -149px;
+top: 2182px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 1437px;
+height: 1041px;
+left: calc(50% - 1437px/2 - 0.5px);
+top: 2182px;
+
+background: #65D085;
+
+
+/* Cloud/Icon/UIA */
+
+position: absolute;
+left: 80.69%;
+right: -10%;
+top: 33.04%;
+bottom: 61.66%;
+
+
+
+/* Rectangle 3570 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+opacity: 0;
+
+
+/* Group 6039 */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 12.5%;
+bottom: 16.8%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 12.5%;
+bottom: 16.8%;
+
+border: 32.25px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.83%;
+right: 25.84%;
+top: 36.87%;
+bottom: 61.33%;
+
+border: 32.25px solid #FFFFFF;
+
+
+/* TRANSFORM AT THE INTERSECT */
+
+position: absolute;
+width: 1278px;
+height: 214px;
+left: calc(50% - 1278px/2);
+top: 2182px;
+
+font-family: 'Neucha';
+font-style: normal;
+font-weight: 400;
+font-size: 54px;
+line-height: 59px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 1179px;
+height: 463px;
+left: calc(50% - 1179px/2 - 0.5px);
+top: 2451px;
+
+background: url(.jpg), #D9D9D9;
+border-radius: 231.5px 0px;
+
+
+/* At IT Monks Solutions, we aim to "TRANSFORM AT THE INTERSECT," focusing on the convergence of technology and business needs to bring about transformative solutions for our clients. */
+
+position: absolute;
+width: 952px;
+height: 167px;
+left: calc(50% - 952px/2);
+top: 2969px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #002D0D;
+
+
+
+/* Ellipse 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 300px;
+height: 288px;
+left: -149px;
+top: 2307px;
+
+border: 32px solid #FFFFFF;
+
+
+/* Ellipse 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 454px;
+height: 436px;
+left: 1232px;
+top: 1932px;
+
+border: 32px solid #FFFFFF;
+
+
+/* Ellipse 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 145px;
+height: 139.24px;
+left: 299px;
+top: 2103px;
+
+border: 15px solid #FFFFFF;
+
+
+/* 4th */
+
+position: absolute;
+width: 1316px;
+height: 1230px;
+left: 77px;
+top: 3262px;
+
+
+
+/* Services */
+
+position: absolute;
+width: 501px;
+height: 95px;
+left: calc(50% - 501px/2 - 0.5px);
+top: 3262px;
+
+font-family: 'Paytone One';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 88%;
+/* or 56px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.22em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 3571 */
+
+position: absolute;
+width: 568px;
+height: 269px;
+left: 77px;
+top: 3400px;
+
+background: #5D5DC6;
+border-radius: 62px;
+
+
+/* Rectangle 3572 */
+
+position: absolute;
+width: 568px;
+height: 269px;
+left: 825px;
+top: 3690px;
+
+background: #191919;
+border-radius: 62px;
+
+
+/* Crafting robust and scalable software solutions tailored to meet the unique needs of our clients. */
+
+position: absolute;
+width: 590px;
+height: 71px;
+left: 160px;
+top: 3521px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Creating visually stunning and functionally efficient websites that leave a lasting impression. */
+
+position: absolute;
+width: 590px;
+height: 71px;
+left: 699px;
+top: 3806px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: right;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* IT Software Development */
+
+position: absolute;
+width: 619px;
+height: 113px;
+left: 160px;
+top: 3408px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 88%;
+/* or 35px */
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 370px;
+height: 370px;
+left: 77px;
+top: 3833px;
+
+background: #138335;
+
+
+/* Ensuring online platforms maintain a safe and positive environment through effective content moderation. */
+
+position: absolute;
+width: 590px;
+height: 71px;
+left: 131px;
+top: 4037px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Website Design and Development */
+
+position: absolute;
+width: 820px;
+height: 110px;
+left: 469px;
+top: 3696px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 88%;
+/* or 35px */
+display: flex;
+align-items: center;
+text-align: right;
+text-decoration-line: underline;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Content Moderation */
+
+position: absolute;
+width: 535px;
+height: 110px;
+left: 131px;
+top: 3927px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 88%;
+/* or 35px */
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Polygon 1 */
+
+position: absolute;
+width: 476px;
+height: 436px;
+left: 917px;
+top: 4056px;
+
+background: #ED922C;
+
+
+/* Website Design and Development */
+
+position: absolute;
+width: 820px;
+height: 110px;
+left: 415px;
+top: 4164px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 88%;
+/* or 35px */
+display: flex;
+align-items: center;
+text-align: right;
+text-decoration-line: underline;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Creating visually stunning and functionally efficient websites that leave a lasting impression. */
+
+position: absolute;
+width: 590px;
+height: 71px;
+left: 640px;
+top: 4268px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: right;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Efficiently managing and optimizing video content for enhanced visibility and impact. */
+
+position: absolute;
+width: 514px;
+height: 111px;
+left: 163px;
+top: 5172px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Rectangle 3573 */
+
+position: absolute;
+width: 1440px;
+height: 1154px;
+left: calc(50% - 1440px/2);
+top: 4455px;
+
+background: #FFAD51;
+
+
+/* Group 6045 */
+
+position: absolute;
+width: 1501px;
+height: 1012px;
+left: 45px;
+top: 4492px;
+
+
+
+/* Rectangle 3574 */
+
+position: absolute;
+width: 512px;
+height: 91px;
+left: 45px;
+top: 4575px;
+
+background: #5D5DC6;
+border-radius: 44px;
+
+
+/* HR services */
+
+position: absolute;
+width: 464px;
+height: 113px;
+left: 69px;
+top: 4564px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* vuesax/linear/arrow-right */
+
+position: absolute;
+width: 248.31px;
+height: 219.47px;
+left: 392px;
+top: 4669.77px;
+
+transform: rotate(-45.72deg);
+
+
+/* vuesax/linear/arrow-right */
+
+position: absolute;
+width: 248.31px;
+height: 219.47px;
+left: 0px;
+top: 177.77px;
+
+transform: rotate(-45.72deg);
+
+
+/* arrow-right */
+
+position: absolute;
+width: 248.31px;
+height: 219.47px;
+left: 0px;
+top: 177.77px;
+
+transform: rotate(-45.72deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.61%;
+right: 17.09%;
+top: 49.55%;
+bottom: -0.13%;
+
+border: 9.3125px solid #00C13A;
+transform: rotate(-45.72deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.82%;
+right: -11.94%;
+top: 104.1%;
+bottom: -4.1%;
+
+border: 9.3125px solid #00C13A;
+transform: rotate(-45.72deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 133.09%;
+right: -133.09%;
+top: 69.82%;
+bottom: -69.82%;
+
+opacity: 0;
+transform: rotate(134.28deg);
+
+
+/* Group 6040 */
+
+position: absolute;
+width: 721px;
+height: 78px;
+left: 814px;
+top: 4643px;
+
+
+
+/* Rectangle 3575 */
+
+position: absolute;
+width: 437px;
+height: 78px;
+left: 814px;
+top: 4643px;
+
+background: #EA5151;
+border-radius: 44px;
+
+
+/* App Development: */
+
+position: absolute;
+width: 699px;
+height: 61px;
+left: 836px;
+top: 4651px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 46px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Group 6041 */
+
+position: absolute;
+width: 721px;
+height: 78px;
+left: 93px;
+top: 4786px;
+
+
+
+/* Rectangle 3575 */
+
+position: absolute;
+width: 437px;
+height: 78px;
+left: 93px;
+top: 4786px;
+
+background: #00C13A;
+border-radius: 44px;
+
+
+/* Data Entry Work: */
+
+position: absolute;
+width: 699px;
+height: 61px;
+left: 115px;
+top: 4794px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 46px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Group 6042 */
+
+position: absolute;
+width: 721px;
+height: 78px;
+left: 825px;
+top: 4988px;
+
+
+
+/* Rectangle 3575 */
+
+position: absolute;
+width: 453px;
+height: 78px;
+left: 825px;
+top: 4988px;
+
+background: #A55DC6;
+border-radius: 44px;
+
+
+/* Content Creation: */
+
+position: absolute;
+width: 699px;
+height: 61px;
+left: 847px;
+top: 4996px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 46px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Group 6043 */
+
+position: absolute;
+width: 721px;
+height: 78px;
+left: 141px;
+top: 5079px;
+
+
+
+/* Rectangle 3575 */
+
+position: absolute;
+width: 481px;
+height: 78px;
+left: 141px;
+top: 5079px;
+
+background: #5D5DC6;
+border-radius: 44px;
+
+
+/* Video Management: */
+
+position: absolute;
+width: 699px;
+height: 61px;
+left: 163px;
+top: 5087px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 46px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Group 6044 */
+
+position: absolute;
+width: 721px;
+height: 78px;
+left: 270px;
+top: 5281px;
+
+
+
+/* Rectangle 3575 */
+
+position: absolute;
+width: 501px;
+height: 78px;
+left: 270px;
+top: 5281px;
+
+background: #AC0B0B;
+border-radius: 44px;
+
+
+/* Marketing Services: */
+
+position: absolute;
+width: 699px;
+height: 61px;
+left: 292px;
+top: 5289px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 46px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Developing innovative and user-friendly mobile applications that cater to diverse business requirements. */
+
+position: absolute;
+width: 514px;
+height: 174px;
+left: 829px;
+top: 4731px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Rectangle 3576 */
+
+position: absolute;
+width: 491px;
+height: 164px;
+left: 822px;
+top: 5076px;
+
+background: #FFAD51;
+border-radius: 18px;
+
+
+/* Providing accurate and timely data entry services to support efficient business operations. */
+
+position: absolute;
+width: 514px;
+height: 111px;
+left: 108px;
+top: 4877px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Offering creative and engaging content creation services to enhance brand presence and communication. */
+
+position: absolute;
+width: 514px;
+height: 157px;
+left: 840px;
+top: 5083px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Implementing strategic and result-driven marketing services to boost brand awareness and customer engagement. */
+
+position: absolute;
+width: 514px;
+height: 111px;
+left: 274px;
+top: 5393px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* flat_bulb_with_light_beams_on_a_transparent_background 1 */
+
+position: absolute;
+width: 744px;
+height: 563px;
+left: -187px;
+top: 5524px;
+
+background: url(flat_bulb_with_light_beams_on_a_transparent_background);
+mix-blend-mode: hard-light;
+
+
+/* Innovation */
+
+position: absolute;
+width: 480.88px;
+height: 150px;
+left: 355px;
+top: 5684px;
+
+font-family: 'Archivo Black';
+font-style: normal;
+font-weight: 400;
+font-size: 58.8235px;
+line-height: 64px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Client-Centric Approach */
+
+position: absolute;
+width: 894px;
+height: 150px;
+left: 495px;
+top: 6097px;
+
+font-family: 'Archivo Black';
+font-style: normal;
+font-weight: 400;
+font-size: 58.8235px;
+line-height: 64px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Integrity */
+
+position: absolute;
+width: 586px;
+height: 150px;
+left: 635px;
+top: 6437px;
+
+font-family: 'Archivo Black';
+font-style: normal;
+font-weight: 400;
+font-size: 58.8235px;
+line-height: 64px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Collaboration */
+
+position: absolute;
+width: 586px;
+height: 150px;
+left: 786px;
+top: 6779px;
+
+font-family: 'Archivo Black';
+font-style: normal;
+font-weight: 400;
+font-size: 58.8235px;
+line-height: 64px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* texxt */
+
+position: absolute;
+width: 924.95px;
+height: 1023.08px;
+left: 892px;
+top: 5224px;
+
+
+
+/* Group */
+
+position: absolute;
+width: 1023.08px;
+height: 924.95px;
+left: 892px;
+top: 6247.08px;
+
+transform: rotate(-90deg);
+
+
+/* C */
+
+position: absolute;
+width: 114.46px;
+height: 180.21px;
+left: 1816.39px;
+top: 6037.9px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(132.59deg);
+
+
+/* r */
+
+position: absolute;
+width: 114.46px;
+height: 180.21px;
+left: 1695.78px;
+top: 6155.79px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(151.54deg);
+
+
+/* e */
+
+position: absolute;
+width: 104.71px;
+height: 180.21px;
+left: 1544.89px;
+top: 6227.15px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(169.77deg);
+
+
+/* a */
+
+position: absolute;
+width: 104.71px;
+height: 180.21px;
+left: 1390.55px;
+top: 6247.08px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-172.74deg);
+
+
+/* t */
+
+position: absolute;
+width: 97.41px;
+height: 180.21px;
+left: 1238.65px;
+top: 6219.75px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-155.79deg);
+
+
+/* i */
+
+position: absolute;
+width: 43.83px;
+height: 180.21px;
+left: 1117.07px;
+top: 6157.23px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-143.4deg);
+
+
+/* v */
+
+position: absolute;
+width: 104.71px;
+height: 180.21px;
+left: 1049.67px;
+top: 6105.67px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-130.46deg);
+
+
+/* e */
+
+position: absolute;
+width: 104.71px;
+height: 180.21px;
+left: 954.76px;
+top: 5982.35px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-112.96deg);
+
+
+/*   */
+
+position: absolute;
+width: 43.83px;
+height: 180.21px;
+left: 905.59px;
+top: 5845.75px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-100.02deg);
+
+
+/* S */
+
+position: absolute;
+width: 104.71px;
+height: 180.21px;
+left: 892px;
+top: 5761.98px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-87.08deg);
+
+
+/* o */
+
+position: absolute;
+width: 121.76px;
+height: 180.21px;
+left: 907.53px;
+top: 5604.08px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-68.31deg);
+
+
+/* l */
+
+position: absolute;
+width: 87.67px;
+height: 180.21px;
+left: 980.75px;
+top: 5448.01px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-50.82deg);
+
+
+/* u */
+
+position: absolute;
+width: 114.46px;
+height: 180.21px;
+left: 1071.8px;
+top: 5344.89px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-33.87deg);
+
+
+/* t */
+
+position: absolute;
+width: 97.41px;
+height: 180.21px;
+left: 1214.25px;
+top: 5260.4px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-16.19deg);
+
+
+/* i */
+
+position: absolute;
+width: 43.83px;
+height: 180.21px;
+left: 1347.36px;
+top: 5229.19px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-3.8deg);
+
+
+/* o */
+
+position: absolute;
+width: 121.76px;
+height: 180.21px;
+left: 1435.08px;
+top: 5224px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(10.41deg);
+
+
+/* n */
+
+position: absolute;
+width: 114.46px;
+height: 180.21px;
+left: 1607.17px;
+top: 5265.88px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(29.91deg);
+
+
+/* s */
+
+position: absolute;
+width: 104.71px;
+height: 180.21px;
+left: 1747.07px;
+top: 5356.93px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(48.14deg);
+
+
+/* Group */
+
+position: absolute;
+width: 810.08px;
+height: 732.38px;
+left: 1800.97px;
+top: 5345.89px;
+
+transform: rotate(90.61deg);
+
+
+/* C */
+
+position: absolute;
+width: 90.63px;
+height: 142.69px;
+left: 1067.32px;
+top: 5503.7px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-46.8deg);
+
+
+/* r */
+
+position: absolute;
+width: 90.63px;
+height: 142.69px;
+left: 1163.8px;
+top: 5411.38px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-27.84deg);
+
+
+/* e */
+
+position: absolute;
+width: 82.91px;
+height: 142.69px;
+left: 1283.87px;
+top: 5356.15px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-9.62deg);
+
+
+/* a */
+
+position: absolute;
+width: 82.91px;
+height: 142.69px;
+left: 1406.24px;
+top: 5341.68px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(7.87deg);
+
+
+/* t */
+
+position: absolute;
+width: 77.13px;
+height: 142.69px;
+left: 1526.28px;
+top: 5364.6px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(24.82deg);
+
+
+/* i */
+
+position: absolute;
+width: 34.71px;
+height: 142.69px;
+left: 1622.01px;
+top: 5415.12px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(37.21deg);
+
+
+/* v */
+
+position: absolute;
+width: 82.91px;
+height: 142.69px;
+left: 1674.94px;
+top: 5456.52px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(50.15deg);
+
+
+/* e */
+
+position: absolute;
+width: 82.91px;
+height: 142.69px;
+left: 1749.05px;
+top: 5554.96px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(67.65deg);
+
+
+/*   */
+
+position: absolute;
+width: 34.71px;
+height: 142.69px;
+left: 1786.83px;
+top: 5663.53px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(80.59deg);
+
+
+/* S */
+
+position: absolute;
+width: 82.91px;
+height: 142.69px;
+left: 1796.88px;
+top: 5729.97px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(93.53deg);
+
+
+/* o */
+
+position: absolute;
+width: 96.41px;
+height: 142.69px;
+left: 1783.25px;
+top: 5854.86px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(112.3deg);
+
+
+/* l */
+
+position: absolute;
+width: 69.42px;
+height: 142.69px;
+left: 1723.96px;
+top: 5977.81px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(129.79deg);
+
+
+/* u */
+
+position: absolute;
+width: 90.63px;
+height: 142.69px;
+left: 1651px;
+top: 6058.69px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(146.74deg);
+
+
+/* t */
+
+position: absolute;
+width: 77.13px;
+height: 142.69px;
+left: 1537.5px;
+top: 6124.38px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(164.42deg);
+
+
+/* i */
+
+position: absolute;
+width: 34.71px;
+height: 142.69px;
+left: 1431.85px;
+top: 6147.97px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(176.81deg);
+
+
+/* o */
+
+position: absolute;
+width: 96.41px;
+height: 142.69px;
+left: 1362.35px;
+top: 6151.34px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-168.98deg);
+
+
+/* n */
+
+position: absolute;
+width: 90.63px;
+height: 142.69px;
+left: 1226.45px;
+top: 6116.72px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-149.48deg);
+
+
+/* s */
+
+position: absolute;
+width: 82.91px;
+height: 142.69px;
+left: 1116.45px;
+top: 6043.45px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-131.25deg);
+
+
+/* Group */
+
+position: absolute;
+width: 596.66px;
+height: 539.43px;
+left: 1195.41px;
+top: 5379.08px;
+
+transform: rotate(17.41deg);
+
+
+/* C */
+
+position: absolute;
+width: 66.75px;
+height: 105.1px;
+left: 1150.5px;
+top: 5929.99px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-120deg);
+
+
+/* r */
+
+position: absolute;
+width: 66.75px;
+height: 105.1px;
+left: 1105.95px;
+top: 5842.3px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-101.04deg);
+
+
+/* e */
+
+position: absolute;
+width: 61.07px;
+height: 105.1px;
+left: 1092.57px;
+top: 5745.88px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-82.82deg);
+
+
+/* a */
+
+position: absolute;
+width: 61.07px;
+height: 105.1px;
+left: 1108.41px;
+top: 5656.51px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-65.33deg);
+
+
+/* t */
+
+position: absolute;
+width: 56.81px;
+height: 105.1px;
+left: 1150.13px;
+top: 5576.76px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-48.38deg);
+
+
+/* i */
+
+position: absolute;
+width: 25.56px;
+height: 105.1px;
+left: 1206.13px;
+top: 5520.01px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-35.99deg);
+
+
+/* v */
+
+position: absolute;
+width: 61.07px;
+height: 105.1px;
+left: 1246.58px;
+top: 5491.5px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-23.05deg);
+
+
+/* e */
+
+position: absolute;
+width: 61.07px;
+height: 105.1px;
+left: 1331.78px;
+top: 5460.2px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(-5.55deg);
+
+
+/*   */
+
+position: absolute;
+width: 25.56px;
+height: 105.1px;
+left: 1416.37px;
+top: 5456.68px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(7.39deg);
+
+
+/* S */
+
+position: absolute;
+width: 61.07px;
+height: 105.1px;
+left: 1465.36px;
+top: 5463.73px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(20.33deg);
+
+
+/* o */
+
+position: absolute;
+width: 71.01px;
+height: 105.1px;
+left: 1550.52px;
+top: 5499.93px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(39.1deg);
+
+
+/* l */
+
+position: absolute;
+width: 51.13px;
+height: 105.1px;
+left: 1624.59px;
+top: 5567.91px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(56.59deg);
+
+
+/* u */
+
+position: absolute;
+width: 66.75px;
+height: 105.1px;
+left: 1666.09px;
+top: 5636.57px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(73.54deg);
+
+
+/* t */
+
+position: absolute;
+width: 56.81px;
+height: 105.1px;
+left: 1688.25px;
+top: 5730.59px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(91.22deg);
+
+
+/* i */
+
+position: absolute;
+width: 25.56px;
+height: 105.1px;
+left: 1682.38px;
+top: 5810.1px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(103.61deg);
+
+
+/* o */
+
+position: absolute;
+width: 71.01px;
+height: 105.1px;
+left: 1669.96px;
+top: 5859.83px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(117.82deg);
+
+
+/* n */
+
+position: absolute;
+width: 66.75px;
+height: 105.1px;
+left: 1616.63px;
+top: 5948.29px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(137.32deg);
+
+
+/* s */
+
+position: absolute;
+width: 61.07px;
+height: 105.1px;
+left: 1541.55px;
+top: 6010.25px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+text-transform: uppercase;
+
+color: #000000;
+
+transform: rotate(155.55deg);
+
+
+/* Embracing creativity and innovation to stay ahead in the ever-evolving tech landscape. */
+
+position: absolute;
+width: 514px;
+height: 166px;
+left: 355px;
+top: 5812px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Prioritizing client needs and delivering solutions that exceed expectations. */
+
+position: absolute;
+width: 514px;
+height: 166px;
+left: 495px;
+top: 6247px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Upholding the highest standards of integrity in all our business practices. */
+
+position: absolute;
+width: 514px;
+height: 166px;
+left: 635px;
+top: 6560px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Fostering a culture of collaboration and teamwork to achieve collective success. */
+
+position: absolute;
+width: 514px;
+height: 166px;
+left: 787px;
+top: 6899px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* pngwing 1 */
+
+position: absolute;
+width: 379px;
+height: 379px;
+left: 98px;
+top: 6043px;
+
+background: url(pngwing.png);
+
+
+/* pngaaa 1 */
+
+position: absolute;
+width: 294px;
+height: 294px;
+left: 287px;
+top: 6413px;
+
+background: url(pngaaa.png);
+
+
+/* pngaaa 2 */
+
+position: absolute;
+width: 321px;
+height: 321px;
+left: 434px;
+top: 6779px;
+
+background: url(pngaaa);
+
+
+/* Rectangle 3577 */
+
+position: absolute;
+width: 1442px;
+height: 745px;
+left: calc(50% - 1442px/2 - 1px);
+top: 7140px;
+
+background: #FFFFFF;
+
+
+/* Resources */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 356px;
+height: 341px;
+left: 225px;
+top: 7493px;
+
+
+
+/* Resources */
+
+width: 122px;
+height: 31px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+
+color: #2F2F2F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Sub Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 87px;
+
+width: 356px;
+height: 280px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Home About Contact Blog Blog Post Pricing Pricing Single */
+
+width: 126px;
+height: 280px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 198.5%;
+/* or 40px */
+
+color: #808080;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Blog Blog Post Careers why choose us Case studies */
+
+width: 143px;
+height: 200px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 198.5%;
+/* or 40px */
+
+color: #808080;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Utility pages */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 191px;
+height: 301px;
+left: 1022px;
+top: 7493px;
+
+
+
+/* Utility Pages */
+
+width: 158px;
+height: 31px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 31px;
+
+color: #2F2F2F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Start here Style guide Password protected 404 Not found Licenses Changelog */
+
+width: 191px;
+height: 240px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 198.5%;
+/* or 40px */
+
+color: #808080;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* IT Monks Solutions Pvt Ltd is your dedicated partner in navigating the dynamic world of technology, offering comprehensive services to transform your business and stay ahead in the digital era. */
+
+position: absolute;
+width: 1167px;
+height: 183px;
+left: calc(50% - 1167px/2 - 0.5px);
+top: 7140px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* @rajkumar test docs */
+
+position: absolute;
+width: 504px;
+height: 38px;
+left: calc(50% - 504px/2);
+top: 7905px;
+
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 3578 */
+
+position: absolute;
+width: 956px;
+height: 104px;
+left: calc(50% - 956px/2);
+top: 7342px;
+
+background: #00C13A;
+border-radius: 52px;
+
+
+/* Get in Touch */
+
+position: absolute;
+width: 349px;
+height: 62px;
+left: 277px;
+top: 7364px;
+
+font-family: 'Calibri';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 78px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 3579 */
+
+position: absolute;
+width: 429px;
+height: 61px;
+left: 626px;
+top: 7364px;
+
+background: #FFFFFF;
+border-radius: 30.5px;
+
+
+/* Rectangle 3580 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 109px;
+height: 104px;
+left: 1089px;
+top: 7342px;
+
+border: 5px solid #FFFFFF;
+border-radius: 62px;
+
+
+/* vuesax/linear/arrow-right */
+
+position: absolute;
+width: 87.13px;
+height: 77.01px;
+left: 1082px;
+top: 7399.38px;
+
+transform: rotate(-45.72deg);
+
+
+/* vuesax/linear/arrow-right */
+
+position: absolute;
+width: 87.13px;
+height: 77.01px;
+left: 0px;
+top: 62.38px;
+
+transform: rotate(-45.72deg);
+
+
+/* arrow-right */
+
+position: absolute;
+width: 87.13px;
+height: 77.01px;
+left: 0px;
+top: 62.38px;
+
+transform: rotate(-45.72deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.61%;
+right: 17.09%;
+top: 49.55%;
+bottom: -0.13%;
+
+border: 9.3125px solid #FFFFFF;
+transform: rotate(-45.72deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 41.82%;
+right: -11.94%;
+top: 104.1%;
+bottom: -4.1%;
+
+border: 9.3125px solid #FFFFFF;
+transform: rotate(-45.72deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 133.09%;
+right: -133.09%;
+top: 69.82%;
+bottom: -69.82%;
+
+opacity: 0;
+transform: rotate(134.28deg);
+
+
+/* Group 6046 */
+
+position: absolute;
+width: 783.56px;
+height: 228px;
+left: calc(50% - 783.56px/2 - 0.22px);
+top: 324px;
+
+
+
+/* IT */
+
+position: absolute;
+width: 307.44px;
+height: 227.62px;
+left: 328px;
+top: 324px;
+
+font-family: 'Knewave';
+font-style: normal;
+font-weight: 400;
+font-size: 307.442px;
+line-height: 478px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Monk Sol. Pvt. Ltd */
+
+position: absolute;
+width: 505.56px;
+height: 130px;
+left: 606px;
+top: 422px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 400;
+font-size: 69.3333px;
+line-height: 88%;
+/* or 61px */
+display: flex;
+align-items: center;
+
+color: #000000;
+
